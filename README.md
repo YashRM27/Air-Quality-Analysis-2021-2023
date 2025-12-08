@@ -4,6 +4,11 @@
 
 This project analyzes Air Quality Index (AQI) and pollutant concentrations across multiple Indian states and cities from **2021 to 2023**.
 It includes complete **data cleaning, analysis, visualization**, and a final **Power BI dashboard**.
+This project uses publicly available air-quality data from the National Air Monitoring Programme (NAMP) provided by the Central Pollution Control Board (CPCB), Government of India.
+
+You can access the dataset here:
+🔗 https://cpcb.nic.in/namp-data/
+The data includes state-wise and city-wise concentrations of key pollutants such as PM2.5, PM10, SO₂, and NO₂ collected from monitoring stations across India.
 
 ---
 
