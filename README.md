@@ -1,13 +1,13 @@
-# # 🌍 Air Quality Analysis (2021–2023)
+# 🌍 Air Quality Analysis (2021–2023)
 
-## ## 📌 Overview
+## 📌 Overview
 
 This project analyzes Air Quality Index (AQI) and pollutant concentrations across multiple Indian states and cities from **2021 to 2023**.
 It includes complete **data cleaning, analysis, visualization**, and a final **Power BI dashboard**.
 
 ---
 
-# ## 🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 * **Python** (Pandas, Matplotlib)
 * **Jupyter Notebook**
@@ -17,7 +17,7 @@ It includes complete **data cleaning, analysis, visualization**, and a final **P
 
 ---
 
-# ## 📂 Project Structure
+## 📂 Project Structure
 
 ```
 project-folder/
@@ -41,7 +41,7 @@ project-folder/
 
 ---
 
-# ## 🧹 Data Cleaning Summary
+## 🧹 Data Cleaning Summary
 
 * Removed duplicates
 * Handled missing values
@@ -57,7 +57,7 @@ project-folder/
 
 ---
 
-# ## 🔍 Exploratory Data Analysis (EDA)
+## 🔍 Exploratory Data Analysis (EDA)
 
 The analysis covers:
 
@@ -73,7 +73,7 @@ The analysis covers:
 
 ---
 
-# ## 📈 Visualizations (Python)
+## 📈 Visualizations (Python)
 
 * Line charts for yearly pollutants
 * Bar charts for top 25 cities
@@ -82,7 +82,7 @@ The analysis covers:
 
 ---
 
-# ## 📊 Power BI Dashboard
+## 📊 Power BI Dashboard
 
 Includes:
 
@@ -95,7 +95,7 @@ Includes:
 
 ---
 
-# ## 🖼 Screenshots
+## 🖼 Screenshots
 
 Add the images like this:
 
@@ -106,7 +106,7 @@ Add the images like this:
 
 ---
 
-# ## ⭐ Key Insights
+## ⭐ Key Insights
 
 * High pollution States or Union Territory: **Delhi, Bihar, Jharkhand, Uttar Pradesh**
 * Low pollution States or Union Territory: **Mizoram, Sikkim, Arunachal Pradesh**
@@ -115,7 +115,7 @@ Add the images like this:
 
 ---
 
-# ## 🚀 How to Run This Project
+## 🚀 How to Run This Project
 
 ### **1. Clone repository**
 
@@ -141,7 +141,7 @@ Load the `dashboard.pbix` file from the **powerbi** folder.
 
 ---
 
-# ## 📌 Future Improvements
+## 📌 Future Improvements
 
 * Add real-time AQI API
 * Add forecasting model (Prophet / ARIMA)
@@ -149,7 +149,7 @@ Load the `dashboard.pbix` file from the **powerbi** folder.
 
 ---
 
-# ## 📧 Contact
+## 📧 Contact
 
 For queries or feedback, feel free to reach out:
 **Yash Mavare**
