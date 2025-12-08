@@ -23,17 +23,18 @@ It includes complete **data cleaning, analysis, visualization**, and a final **P
 project-folder/
 │
 ├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
+│   ├── Air-Quality-dataset.xlsx
+│   └── clean_aqi_dataset.csv
 │
 ├── notebooks/
-│   └── analysis.ipynb
-│
+│   └── Data_Cleaning.ipynb
+│   └── EDA.csv
+|
 ├── powerbi/
-│   └── dashboard.pbix
+│   └── Air-Quality-Analysis.pbix
 │
 ├── images/
-│   └── dashboard.png
+│   └── PowerBI dashboard.png
 │
 └── README.md
 ```
