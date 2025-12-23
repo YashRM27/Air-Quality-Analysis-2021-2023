@@ -12,6 +12,16 @@ The data includes state-wise and city-wise concentrations of key pollutants such
 
 ---
 
+## 🎯 Project Objectives
+
+* Clean and standardize raw CPCB air quality data
+* Analyze pollution trends across years, states, and cities
+* Identify high-pollution and low-pollution regions
+* Compare major pollutant levels (PM2.5, PM10, NO₂, SO₂)
+* Build an **interactive Power BI dashboard** for stakeholders
+
+---
+
 ## 🧰 Tools & Technologies
 
 * **Python** (Pandas, Matplotlib)
@@ -80,14 +90,15 @@ The analysis covers:
 
 ## 📈 Visualizations (Python)
 
-* Line charts for yearly pollutants
-* Bar charts for top 25 cities
+* Line charts for **yearly pollutants**
+* Bar charts for **top 25 cities**
 * State-wise comparison plots
 * Heatmap summary
 
 ---
 
 ## 📊 Power BI Dashboard
+The Power BI dashboard was designed for **non-technical stakeholders**, enabling quick insights and interactive exploration.
 
 Includes:
 
@@ -95,7 +106,7 @@ Includes:
 * **Top 10 polluted states**
 * **Top 10 least polluted cities**
 * **Year selector slicer**
-* **KPIs** (Avg PM2.5, PM10, NO2, SO2)
+* **KPI Cards** (Avg PM2.5, PM10, NO2, SO2)
 * **Conditional formatting heatmap**
 
 ---
@@ -115,8 +126,16 @@ Add the images like this:
 
 * High pollution States or Union Territory: **Delhi, Bihar, Jharkhand, Uttar Pradesh**
 * Low pollution States or Union Territory: **Mizoram, Sikkim, Arunachal Pradesh**
-* PM10 is consistently higher than PM2.5
-* Pollution slightly decreases from 2021 → 2023
+* **PM10** concentrations are consistently **higher than PM2.5** across most regions
+* Overall pollution levels show a **slight downward trend from 2021 to 2023**, indicating early signs of improvement
+
+---
+
+## 🧠 Business-Oriented Observations
+
+* Certain states exhibit **consistently high pollution**, suggesting a need for focused monitoring and intervention
+* PM10 dominance highlights the impact of **dust, construction activity, and vehicular emissions**
+* Year-over-year comparisons can help evaluate the effectiveness of pollution control measures
 
 ---
 
