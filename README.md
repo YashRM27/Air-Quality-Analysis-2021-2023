@@ -43,7 +43,7 @@ project-folder/
 │
 ├── notebooks/
 │   └── Data_Cleaning.ipynb
-│   └── EDA.csv
+│   └── EDA.ipynb
 |
 ├── powerbi/
 │   └── Air-Quality-Analysis.pbix
